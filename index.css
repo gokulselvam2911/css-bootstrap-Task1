@@ -1,0 +1,46 @@
+.navigationbar{
+background-color: rgb(47, 61, 70);
+padding: 5px 15px;
+}
+.fa{
+    color: white;
+}
+.row{ 
+    color: white;
+}
+.box{
+    background-color: gray;
+  
+}
+.container{
+    color: gray;
+    margin: 30px;
+}
+.col{
+    background-color: rgb(53, 53, 53);
+    width: 100px;
+    height: 550px;
+    border-radius: 10px;
+    margin: 25px;
+}
+.col-12{
+    color: rgb(202, 210, 197) ;
+    background-color: rgb(53, 53, 53);
+    width: 550px;
+    height: 40px;
+    margin: 25px 200px;
+    padding-top: 5px;
+}
+.col-md-4{
+    background-color: rgb(53, 53, 53) ;
+    height: 170px;
+    width: 220px;
+    margin: 25px 16px;
+}
+.col-md-12{
+    background-color: rgb(53, 53, 53);
+    width: 730px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 25px;
+}
